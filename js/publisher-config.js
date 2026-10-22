@@ -1,0 +1,1 @@
+window.PETAL_PUBLISHER_URL = '';

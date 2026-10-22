@@ -1,0 +1,14 @@
+name = "maison-petal-publisher"
+main = "src/index.js"
+compatibility_date = "2026-10-23"
+
+[vars]
+GITHUB_BRANCH = "main"
+GITHUB_OWNER = "YOUR-GITHUB-USERNAME-OR-ORGANIZATION"
+GITHUB_REPO = "YOUR-REPOSITORY-NAME"
+ALLOWED_ORIGIN = "https://YOUR-USERNAME.github.io"
+
+[[ratelimits]]
+name = "LOGIN_LIMITER"
+namespace_id = "1001"
+simple = { limit = 10, period = 60 }

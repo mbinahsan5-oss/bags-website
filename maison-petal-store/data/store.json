@@ -1,0 +1,196 @@
+{
+ "products": [
+  {
+   "id": "p1",
+   "name": "Blossom Butterfly Crossbody",
+   "cat": "Crossbody",
+   "price": 2999,
+   "sale": 2499,
+   "stock": 20,
+   "color": "#2b2230",
+   "img": "assets/black-butterfly.jpg",
+   "blend": 0,
+   "hide": 0,
+   "best": 1,
+   "desc": "Embroidered flowers, a pearly butterfly charm and gold clips. Zip top with an adjustable strap."
+  },
+  {
+   "id": "p2",
+   "name": "Cream Petal Mini",
+   "cat": "Mini",
+   "price": 3499,
+   "sale": 0,
+   "stock": 15,
+   "color": "#f0dcb8",
+   "img": "assets/cream-mini.jpg",
+   "blend": 1,
+   "hide": 0,
+   "best": 0,
+   "desc": "A little top-handle bag with a soft flap and gold chain strap. Fits phone, keys and lip gloss."
+  },
+  {
+   "id": "p3",
+   "name": "Rosie Pink Tote",
+   "cat": "Totes",
+   "price": 3999,
+   "sale": 0,
+   "stock": 12,
+   "color": "#ff5fa2",
+   "img": "",
+   "blend": 0,
+   "hide": 0,
+   "best": 0,
+   "desc": "Roomy everyday tote in soft pink with a sparkly gold clasp."
+  },
+  {
+   "id": "p4",
+   "name": "Lilac Dream Backpack",
+   "cat": "Backpacks",
+   "price": 4499,
+   "sale": 3999,
+   "stock": 9,
+   "color": "#9a6bd6",
+   "img": "",
+   "blend": 0,
+   "hide": 0,
+   "best": 0,
+   "desc": "Padded straps and a laptop sleeve, made for school days."
+  },
+  {
+   "id": "p5",
+   "name": "Mint Fresh Crossbody",
+   "cat": "Crossbody",
+   "price": 2799,
+   "sale": 0,
+   "stock": 18,
+   "color": "#3fb591",
+   "img": "",
+   "blend": 0,
+   "hide": 0,
+   "best": 0,
+   "desc": "Light and hands-free in a fresh mint shade."
+  },
+  {
+   "id": "p6",
+   "name": "Honey Party Mini",
+   "cat": "Mini",
+   "price": 3199,
+   "sale": 0,
+   "stock": 10,
+   "color": "#f2a03d",
+   "img": "",
+   "blend": 0,
+   "hide": 0,
+   "best": 0,
+   "desc": "A golden mini bag for parties and special days."
+  }
+ ],
+ "site": {
+  "name": "Maison Petal",
+  "tag": "Soft colors, sparkly details and room for everything. Made for school, parties and every day.",
+  "ann": "Free delivery over Rs 5,000. Cash on delivery across Pakistan.",
+  "wa": "923001234567",
+  "cur": "Rs",
+  "ship": {
+   "fee": 250,
+   "free": 5000
+  },
+  "hero": {
+   "title": "Bags she'll never put down.",
+   "sub": "Soft colors, sparkly details and room for everything. Made for school, parties and every day.",
+   "cta": "Shop the collection",
+   "badge": "New Spring Edit",
+   "img": "",
+   "img2": ""
+  },
+  "marquee": [
+   "New drops every week",
+   "Free gift wrap",
+   "Cash on delivery",
+   "Sparkle hardware"
+  ],
+  "cats": [
+   {
+    "n": "Totes",
+    "img": ""
+   },
+   {
+    "n": "Crossbody",
+    "img": ""
+   },
+   {
+    "n": "Backpacks",
+    "img": ""
+   },
+   {
+    "n": "Mini",
+    "img": ""
+   }
+  ],
+  "why": [
+   {
+    "t": "Soft vegan leather",
+    "d": "Gentle on skin and tough enough for school days."
+   },
+   {
+    "t": "Cash on delivery",
+    "d": "Order on WhatsApp and pay when your bag arrives."
+   },
+   {
+    "t": "Easy exchange",
+    "d": "Wrong color? Message us and we will sort it out."
+   }
+  ],
+  "reviews": [],
+  "faq": [
+   {
+    "q": "How do I order?",
+    "a": "Add bags to your cart, press checkout and send your order on WhatsApp. We confirm it with you."
+   },
+   {
+    "q": "How long does delivery take?",
+    "a": "We will confirm the delivery time for your city when we reply on WhatsApp."
+   },
+   {
+    "q": "How do I pay?",
+    "a": "Pay cash on delivery."
+   }
+  ],
+  "coupons": [
+   {
+    "code": "PETAL10",
+    "pct": 10,
+    "on": 1
+   }
+  ],
+  "foot": {
+   "about": "Maison Petal makes colorful, sparkly bags for girls.",
+   "insta": "",
+   "fb": "",
+   "tiktok": "",
+   "email": "",
+   "phone": "",
+   "addr": "Karachi, Pakistan"
+  },
+  "seo": {
+   "title": "Maison Petal | Girls Bags in Pakistan",
+   "desc": "Shop cute crossbody bags, mini bags, totes and school backpacks for girls. Cash on delivery across Pakistan.",
+   "kw": "girls bags Pakistan, crossbody bag, mini bag, school backpack for girls, handbags online Pakistan",
+   "url": "",
+   "og": ""
+  },
+  "meta": {
+   "pixel": "",
+   "verify": "",
+   "consent": 1,
+   "orderEv": "Purchase",
+   "on": {
+    "view": 1,
+    "cart": 1,
+    "checkout": 1,
+    "buy": 1,
+    "wa": 1
+   }
+  }
+ }
+}
